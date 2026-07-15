@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <section className="Container">
               <div>
-      <img src={profile} alt="image" /> 
+      <img src={profile} alt="profilee" /> 
       </div>
 
       <h1>Hi, I'm Rc Cura</h1>
